@@ -13,9 +13,8 @@ li {
 
 .navbar{
     background-color: aqua;
+    margin: auto;
     width: 75%;
-    padding-left: 12.5%;
-    padding-right: 12.5%;
     text-align: center;
 }
 
